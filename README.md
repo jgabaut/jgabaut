@@ -2,6 +2,11 @@
 
 <p align="center"><a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabaut&theme=gruvbox"/><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgabaut&theme=gruvbox"></a></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jgabaut/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/jgabaut/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</p>
+
 <!--
 **jgabaut/jgabaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
